@@ -1,15 +1,30 @@
+# Olá, bem vindo! Eu sou o Deivid! 😎
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@deividsaantoss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deivid-santos-711684151/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/DeividSaantosz) 
+### 👨‍🎓 Estou cursando Sistemas de Informação e meu objetivo é se tornar um desenvolvedor de software. 
+### 👨‍💻 Atualmente os meus focos de estudos estão concentrados na linguagem Java, para desenvolvimento Back-End e Android, que são as aréas das quais me interesso. 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=deividSantosz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=deividSantosz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deividSantosz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### ✉ Contate-me pelo meu email: deividcontatoprofissional@gmail.com
 
----
-[![](https://visitcount.itsvg.in/api?id=deividSantosz&icon=0&color=0)](https://visitcount.itsvg.in)
+##
+
+# 💻  Tecnologias:
+
+<div>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"target="_blank"></a>
+</div>
+
+# 🌐 Minhas redes sociais:
+<div>
+  <a href=" https://www.linkedin.com/in/deividsantossz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
+  <a href="https://instagram.com/@deividsaantoss" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
+  <a href="https://x.com/DeividSaantosz" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"target="_blank"></a>
+  
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
