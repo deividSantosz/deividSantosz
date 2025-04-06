@@ -1,7 +1,8 @@
 # Olá, bem vindo! Eu sou o Deivid! 😎
 
 ### 👨‍🎓 Estou cursando Sistemas de Informação e meu objetivo é me tornar um desenvolvedor de software. 
-### 👨‍💻 Atualmente os meus focos de estudos estão concentrados na linguagem Java e C# para desenvolvimento Back-End e Android, que são as aréas das quais me interesso. 
+### 👨‍💻 Atualmente os meus focos de estudos estão concentrados na linguagem Java/Spring para desenvolvimento Back-End e Android, que são as aréas das quais me interesso. 
+### Sou estágiario em Desenvolvimento Delphi utilizando o framework Horse.
 
 ### ✉ Contate-me pelo meu email: deividcontatoprofissional@gmail.com
 
